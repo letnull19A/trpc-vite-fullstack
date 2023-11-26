@@ -1,0 +1,12 @@
+{
+  "name": "trpc-vite-fullstack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "workspaces": ["./packages/package.trpc.routes", "./packages/package.trpc.client"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
